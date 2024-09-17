@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/info/github/</loc>
+    <loc>https://gytismar.github.io/info/github/</loc>
     <lastmod>2024-09-16T19:55:55+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/info/</loc>
+    <loc>https://gytismar.github.io/info/</loc>
     <lastmod>2024-09-16T19:55:55+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://gytismar.github.io/</loc>
     <lastmod>2024-09-16T19:55:55+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://gytismar.github.io/posts/</loc>
     <lastmod>2024-09-16T00:51:31+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/test/</loc>
+    <loc>https://gytismar.github.io/posts/test/</loc>
     <lastmod>2024-09-15T20:02:01+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/kodas_su_nuotrauka/</loc>
+    <loc>https://gytismar.github.io/posts/kodas_su_nuotrauka/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://gytismar.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://gytismar.github.io/tags/</loc>
   </url>
 </urlset>
